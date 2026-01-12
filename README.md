@@ -43,7 +43,7 @@ The experiment shows how internal representations can be **shifted at specific t
 
 ```
 .
-├── llm_steering.py        # Main experiment script
+├── llm_steering.ipynb        # Main experiment script
 └── README.md              # Project documentation
 ```
 
@@ -183,6 +183,3 @@ Related concepts:
 
 ---
 
-
-
-Just tell me 👍
